@@ -5,5 +5,6 @@ module.exports = {
         sourceType: "module",
     },
     extends: ["plugin:@typescript-eslint/recommended", "prettier"],
-    rules: [],
+    rules: {},
+    ignorePatterns: ["**/.*", "build/**"],
 }
