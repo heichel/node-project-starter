@@ -1,7 +1,7 @@
 {
-  "name": "custom-automation",
+  "name": "node-project-starter",
   "version": "1.0.0",
-  "description": "",
+  "description": "Template to quickly start a node project with Typescript, linting and prettyfying code already configured. Change name and description.",
   "main": "main.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
